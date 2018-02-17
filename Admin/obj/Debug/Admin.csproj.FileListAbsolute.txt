@@ -1,0 +1,13 @@
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\Admin.exe.config
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\Admin.exe
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\Admin.pdb
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\GenealogyVer1.exe
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\GenealogyVer1.pdb
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\bin\Debug\GenealogyVer1.exe.config
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.exe
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.pdb
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\Admin\obj\Debug\Admin.CRUD.resources

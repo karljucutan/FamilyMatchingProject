@@ -1,0 +1,28 @@
+bool nagbackna = false;
+for(int x = 1; x <=n; x*=2)
+{
+	for(int y=1; y<=x; y++
+	{
+
+		if(count == 0)
+		{	AKO	count++
+		}
+		else
+		{
+		if(y == x)
+		{	
+			
+			if(!nagbackna)
+			y=y-(y-1); nagbackna = true
+			else 
+			break;
+		}
+		array[count] = array[y].father;
+		count++ 
+		array[count] = array[y].mother;
+		count++ 
+		
+		}
+		
+	}
+}

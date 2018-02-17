@@ -1,0 +1,20 @@
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.exe.config
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.exe
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.pdb
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csprojResolveAssemblyReference.cache
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.Form1.resources
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.Properties.Resources.resources
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csproj.GenerateResource.Cache
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csproj.CoreCompileInputs.cache
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.exe
+C:\Users\Kai\source\repos\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.pdb
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.exe.config
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.exe
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\bin\Debug\GenealogyVer1.pdb
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.Form1.resources
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.Properties.Resources.resources
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csproj.GenerateResource.Cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.csproj.CoreCompileInputs.cache
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.exe
+C:\Users\Kai\Documents\Visual Studio 2017\Projects\GenealogyVer1\GenealogyVer1\obj\Debug\GenealogyVer1.pdb
